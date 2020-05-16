@@ -4,6 +4,16 @@
 
 https://forms.gle/U7tmjBUWWbwexGXJA
 
+## Google docs 
+
+It should be used to ask longer questions, comments, etc.
+
+https://docs.google.com/document/d/17Ly0UR-eQzzuddv_1oJnGA063mSLUaHgkXYl_0k3Gmw/edit?usp=sharing
+
+## Course timer
+
+https://cuckoo.team/isa3
+
 ## Planned schedule 
 
 The schedule will be adjusted based on the presented content.
