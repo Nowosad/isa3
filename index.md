@@ -10,7 +10,7 @@
 
 ## Google docs 
 
-It should be used to ask longer questions, comments, etc.
+It could be used to ask longer questions, comments, etc.
 
 [https://docs.google.com/document/d/17Ly0UR-eQzzuddv_1oJnGA063mSLUaHgkXYl_0k3Gmw/edit?usp=sharing](https://docs.google.com/document/d/17Ly0UR-eQzzuddv_1oJnGA063mSLUaHgkXYl_0k3Gmw/edit?usp=sharing)
 
