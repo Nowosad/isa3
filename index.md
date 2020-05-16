@@ -4,6 +4,10 @@
 
 [https://forms.gle/U7tmjBUWWbwexGXJA](https://forms.gle/U7tmjBUWWbwexGXJA)
 
+## Prerequisites
+
+[Course prerequisites](Prerequisites.html)
+
 ## Google docs 
 
 It should be used to ask longer questions, comments, etc.
