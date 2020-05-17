@@ -14,6 +14,8 @@ It could be used to ask longer questions, comments, etc.
 
 [https://docs.google.com/document/d/17Ly0UR-eQzzuddv_1oJnGA063mSLUaHgkXYl_0k3Gmw/edit?usp=sharing](https://docs.google.com/document/d/17Ly0UR-eQzzuddv_1oJnGA063mSLUaHgkXYl_0k3Gmw/edit?usp=sharing)
 
+We will also use https://www.sli.do/ISA3 for more complex questions - I will answer them during the last day of the course.
+
 ## Course timer
 
 [https://cuckoo.team/isa3](https://cuckoo.team/isa3)
